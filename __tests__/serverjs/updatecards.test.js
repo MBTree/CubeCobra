@@ -456,6 +456,72 @@ const convertedExampleNonFoilCard = {
   cubeCount: 0,
 };
 
+const convertedExamplePromoCard = {
+  color_identity: ['B'],
+  set: 'pm19',
+  set_name: 'Core Set 2019 Promos',
+  foil: true,
+  nonfoil: false,
+  collector_number: '88s',
+  released_at: '2018-07-13',
+  reprint: true,
+  promo: true,
+  promo_types: ['setpromo', 'prerelease', 'datestamped'],
+  prices: {
+    usd: null,
+    usd_foil: 2.37,
+    eur: null,
+    tix: null,
+  },
+  elo: 1200,
+  popularity: 0,
+  cubeCount: 0,
+  pickCount: 0,
+  embedding: [],
+  digital: false,
+  isToken: false,
+  border_color: 'black',
+  name: 'Bone Dragon',
+  name_lower: 'bone dragon',
+  full_name: 'Bone Dragon [pm19-88s]',
+  artist: 'Jason A. Engle',
+  scryfall_uri: 'https://scryfall.com/card/pm19/88s/bone-dragon?utm_source=api',
+  rarity: 'mythic',
+  oracle_text:
+    'Flying\n{3}{B}{B}, Exile seven other cards from your graveyard: Return Bone Dragon from your graveyard to the battlefield tapped.',
+  _id: '004b44af-9b27-4689-a6b6-bcd3ad0aca7e',
+  oracle_id: '51926430-b98a-424d-9347-c36938132825',
+  cmc: 5,
+  legalities: {
+    Legacy: 'legal',
+    Modern: 'legal',
+    Standard: 'not_legal',
+    Pioneer: 'legal',
+    Pauper: 'not_legal',
+    Brawl: 'not_legal',
+    Historic: 'legal',
+    Commander: 'legal',
+    Penny: 'legal',
+    Vintage: 'legal',
+  },
+  parsed_cost: ['b', 'b', '3'],
+  colors: ['B'],
+  type: 'Creature — Dragon Skeleton',
+  full_art: false,
+  language: 'en',
+  layout: 'normal',
+  tcgplayer_id: 169985,
+  power: '5',
+  toughness: '4',
+  image_small:
+    'https://c1.scryfall.com/file/scryfall-cards/small/front/0/0/004b44af-9b27-4689-a6b6-bcd3ad0aca7e.jpg?1562895090',
+  image_normal:
+    'https://c1.scryfall.com/file/scryfall-cards/normal/front/0/0/004b44af-9b27-4689-a6b6-bcd3ad0aca7e.jpg?1562895090',
+  art_crop:
+    'https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/0/004b44af-9b27-4689-a6b6-bcd3ad0aca7e.jpg?1562895090',
+  colorcategory: 'b',
+};
+
 const mockRatings = [
   {
     name: 'Inspiring Veteran',
@@ -655,6 +721,11 @@ test('convertCard returns a correctly converted double-faced planeswalker card',
 test('convertCard returns a correctly converted Adventure card object', () => {
   const result = updatecards.convertCard(examplecards.exampleAdventureCard, false);
   expect(result).toEqual(convertedExampleAdventureCard);
+});
+
+test('convertCard returns a correctly converted promo card object', () => {
+  const result = updatecards.convertCard(examplecards.examplePromoCard, false);
+  expect(result).toEqual(convertedExamplePromoCard);
 });
 
 describe.each(fnToAttributeTable)('%s properly converts %s', (convertFn, attribute) => {

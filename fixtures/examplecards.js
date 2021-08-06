@@ -758,6 +758,120 @@ const exampleNonFoilCard = {
   },
 };
 
+const examplePromoCard = {
+  object: 'card',
+  id: '004b44af-9b27-4689-a6b6-bcd3ad0aca7e',
+  oracle_id: '51926430-b98a-424d-9347-c36938132825',
+  multiverse_ids: [],
+  tcgplayer_id: 169985,
+  cardmarket_id: 360991,
+  name: 'Bone Dragon',
+  lang: 'en',
+  released_at: '2018-07-13',
+  uri: 'https://api.scryfall.com/cards/004b44af-9b27-4689-a6b6-bcd3ad0aca7e',
+  scryfall_uri: 'https://scryfall.com/card/pm19/88s/bone-dragon?utm_source=api',
+  layout: 'normal',
+  highres_image: true,
+  image_status: 'highres_scan',
+  image_uris: {
+    small:
+      'https://c1.scryfall.com/file/scryfall-cards/small/front/0/0/004b44af-9b27-4689-a6b6-bcd3ad0aca7e.jpg?1562895090',
+    normal:
+      'https://c1.scryfall.com/file/scryfall-cards/normal/front/0/0/004b44af-9b27-4689-a6b6-bcd3ad0aca7e.jpg?1562895090',
+    large:
+      'https://c1.scryfall.com/file/scryfall-cards/large/front/0/0/004b44af-9b27-4689-a6b6-bcd3ad0aca7e.jpg?1562895090',
+    png: 'https://c1.scryfall.com/file/scryfall-cards/png/front/0/0/004b44af-9b27-4689-a6b6-bcd3ad0aca7e.png?1562895090',
+    art_crop:
+      'https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/0/004b44af-9b27-4689-a6b6-bcd3ad0aca7e.jpg?1562895090',
+    border_crop:
+      'https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/004b44af-9b27-4689-a6b6-bcd3ad0aca7e.jpg?1562895090',
+  },
+  mana_cost: '{3}{B}{B}',
+  cmc: 5.0,
+  type_line: 'Creature — Dragon Skeleton',
+  oracle_text:
+    'Flying\n{3}{B}{B}, Exile seven other cards from your graveyard: Return Bone Dragon from your graveyard to the battlefield tapped.',
+  power: '5',
+  toughness: '4',
+  colors: ['B'],
+  color_identity: ['B'],
+  keywords: ['Flying'],
+  legalities: {
+    standard: 'not_legal',
+    future: 'not_legal',
+    historic: 'legal',
+    gladiator: 'legal',
+    pioneer: 'legal',
+    modern: 'legal',
+    legacy: 'legal',
+    pauper: 'not_legal',
+    vintage: 'legal',
+    penny: 'legal',
+    commander: 'legal',
+    brawl: 'not_legal',
+    duel: 'legal',
+    oldschool: 'not_legal',
+    premodern: 'not_legal',
+  },
+  games: ['paper'],
+  reserved: false,
+  foil: true,
+  nonfoil: false,
+  oversized: false,
+  promo: true,
+  reprint: true,
+  variation: false,
+  set_id: 'ee765d6b-a5ee-4bcd-bbd0-9bc55697ed3c',
+  set: 'pm19',
+  set_name: 'Core Set 2019 Promos',
+  set_type: 'promo',
+  set_uri: 'https://api.scryfall.com/sets/ee765d6b-a5ee-4bcd-bbd0-9bc55697ed3c',
+  set_search_uri: 'https://api.scryfall.com/cards/search?order=set&q=e%3Apm19&unique=prints',
+  scryfall_set_uri: 'https://scryfall.com/sets/pm19?utm_source=api',
+  rulings_uri: 'https://api.scryfall.com/cards/004b44af-9b27-4689-a6b6-bcd3ad0aca7e/rulings',
+  prints_search_uri:
+    'https://api.scryfall.com/cards/search?order=released&q=oracleid%3A51926430-b98a-424d-9347-c36938132825&unique=prints',
+  collector_number: '88s',
+  digital: false,
+  rarity: 'mythic',
+  flavor_text: 'Its roar is the clatter of a thousand bones.',
+  card_back_id: '0aeebaf5-8c7d-4636-9e82-8c27447861f7',
+  artist: 'Jason A. Engle',
+  artist_ids: ['02e2b5de-4341-464c-8fdb-a1adbf873bc0'],
+  illustration_id: 'a87d183d-f2dc-4e0a-9aee-bf397c09be37',
+  border_color: 'black',
+  frame: '2015',
+  full_art: false,
+  textless: false,
+  booster: false,
+  story_spotlight: false,
+  promo_types: ['setpromo', 'prerelease', 'datestamped'],
+  edhrec_rank: 10391,
+  prices: {
+    usd: null,
+    usd_foil: '2.37',
+    eur: null,
+    eur_foil: '2.80',
+    tix: null,
+  },
+  related_uris: {
+    tcgplayer_infinite_articles:
+      'https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Bone+Dragon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall',
+    tcgplayer_infinite_decks:
+      'https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Bone+Dragon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall',
+    edhrec: 'https://edhrec.com/route/?cc=Bone+Dragon',
+    mtgtop8: 'https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Bone+Dragon',
+  },
+  purchase_uris: {
+    tcgplayer:
+      'https://shop.tcgplayer.com/product/productsearch?id=169985&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall',
+    cardmarket:
+      'https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Bone+Dragon&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall',
+    cardhoarder:
+      'https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Bone+Dragon&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall',
+  },
+};
+
 module.exports = {
   exampleCard,
   exampleDoubleFacedCard,
@@ -765,4 +879,5 @@ module.exports = {
   exampleAdventureCard,
   exampleForeignCard,
   exampleNonFoilCard,
+  examplePromoCard,
 };

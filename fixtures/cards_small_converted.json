@@ -13,9 +13,9 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.07,
+      "usd": 0.09,
       "usd_foil": 0.11,
-      "eur": 0.02,
+      "eur": 0.12,
       "tix": 0.03
     },
     "elo": 1200,
@@ -83,9 +83,9 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.11,
-      "usd_foil": 0.26,
-      "eur": 0.22,
+      "usd": 0.1,
+      "usd_foil": 0.27,
+      "eur": 0.05,
       "tix": 0.03
     },
     "elo": 1200,
@@ -115,7 +115,7 @@
       "Brawl": "legal",
       "Historic": "legal",
       "Commander": "legal",
-      "Penny": "legal",
+      "Penny": "not_legal",
       "Vintage": "legal"
     },
     "parsed_cost": [
@@ -153,9 +153,9 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.63,
-      "usd_foil": 0.82,
-      "eur": 0.11,
+      "usd": 0.55,
+      "usd_foil": 0.86,
+      "eur": 0.19,
       "tix": 0.03
     },
     "elo": 1200,
@@ -221,7 +221,7 @@
     "prices": {
       "usd": 0.05,
       "usd_foil": 0.16,
-      "eur": 0.03,
+      "eur": 0.02,
       "tix": 0.03
     },
     "elo": 1200,
@@ -287,7 +287,7 @@
     "prices": {
       "usd": 0.09,
       "usd_foil": 0.25,
-      "eur": 0.03,
+      "eur": 0.04,
       "tix": 0.03
     },
     "elo": 1200,
@@ -317,7 +317,7 @@
       "Brawl": "legal",
       "Historic": "legal",
       "Commander": "legal",
-      "Penny": "not_legal",
+      "Penny": "legal",
       "Vintage": "legal"
     },
     "parsed_cost": [
@@ -351,9 +351,9 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.33,
+      "usd": 0.32,
       "usd_foil": 0.42,
-      "eur": 0.5,
+      "eur": 0.27,
       "tix": 0.02
     },
     "elo": 1200,
@@ -420,10 +420,10 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 7.34,
-      "usd_foil": 10.38,
-      "eur": 6.42,
-      "tix": 1.71
+      "usd": 6.64,
+      "usd_foil": 9.71,
+      "eur": 4.97,
+      "tix": 1.7
     },
     "elo": 1200,
     "popularity": 0,
@@ -483,10 +483,10 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 1.22,
-      "usd_foil": 2.37,
-      "eur": 0.89,
-      "tix": 0.58
+      "usd": 1.08,
+      "usd_foil": 2.39,
+      "eur": 1.07,
+      "tix": 0.56
     },
     "elo": 1200,
     "popularity": 0,
@@ -546,10 +546,10 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 4.21,
-      "usd_foil": 6.35,
-      "eur": 2.93,
-      "tix": 3.79
+      "usd": 4.16,
+      "usd_foil": 6.15,
+      "eur": 2.6,
+      "tix": 3.64
     },
     "elo": 1200,
     "popularity": 0,
@@ -609,10 +609,10 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 7.11,
-      "usd_foil": 8.21,
-      "eur": 3.62,
-      "tix": 1.51
+      "usd": 6.84,
+      "usd_foil": 7.99,
+      "eur": 3.8,
+      "tix": 0.83
     },
     "elo": 1200,
     "popularity": 0,
@@ -673,9 +673,9 @@
     "promo": false,
     "prices": {
       "usd": 0.24,
-      "usd_foil": 0.77,
-      "eur": 0.33,
-      "tix": 0.13
+      "usd_foil": 0.76,
+      "eur": 0.28,
+      "tix": 0.12
     },
     "elo": 1200,
     "popularity": 0,
@@ -735,10 +735,10 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 2.02,
-      "usd_foil": 2.49,
-      "eur": 2.53,
-      "tix": 0.34
+      "usd": 2.11,
+      "usd_foil": 2.66,
+      "eur": 2.21,
+      "tix": 0.17
     },
     "elo": 1200,
     "popularity": 0,
@@ -799,10 +799,10 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 1.87,
-      "usd_foil": 3.82,
-      "eur": 2.84,
-      "tix": 1.27
+      "usd": 1.61,
+      "usd_foil": 3.73,
+      "eur": 2.69,
+      "tix": 1.57
     },
     "elo": 1200,
     "popularity": 0,
@@ -864,7 +864,7 @@
     "prices": {
       "usd": 0.2,
       "usd_foil": 0.26,
-      "eur": 0.47,
+      "eur": 0.3,
       "tix": 0.03
     },
     "elo": 1200,
@@ -926,9 +926,9 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.43,
+      "usd": 0.45,
       "usd_foil": 0.54,
-      "eur": 0.28,
+      "eur": 0.33,
       "tix": 0.02
     },
     "elo": 1200,
@@ -996,9 +996,9 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 1.8,
-      "usd_foil": 2.19,
-      "eur": 0.43,
+      "usd": 1.65,
+      "usd_foil": 2.13,
+      "eur": 1.35,
       "tix": 0.03
     },
     "elo": 1200,
@@ -1071,10 +1071,10 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.18,
-      "usd_foil": 0.23,
-      "eur": 0.12,
-      "tix": 0.02
+      "usd": 0.16,
+      "usd_foil": 0.22,
+      "eur": 0.2,
+      "tix": 0.03
     },
     "elo": 1200,
     "popularity": 0,
@@ -1142,10 +1142,10 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 2.14,
-      "usd_foil": 2.81,
-      "eur": 1.22,
-      "tix": 0.03
+      "usd": 1.94,
+      "usd_foil": 2.87,
+      "eur": 1.08,
+      "tix": 0.02
     },
     "elo": 1200,
     "popularity": 0,
@@ -1213,9 +1213,9 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.51,
-      "usd_foil": 0.54,
-      "eur": 0.36,
+      "usd": 0.47,
+      "usd_foil": 0.55,
+      "eur": 0.18,
       "tix": 0.02
     },
     "elo": 1200,
@@ -1245,7 +1245,7 @@
       "Brawl": "legal",
       "Historic": "legal",
       "Commander": "legal",
-      "Penny": "not_legal",
+      "Penny": "legal",
       "Vintage": "legal"
     },
     "parsed_cost": [
@@ -1282,10 +1282,10 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.28,
-      "usd_foil": 0.48,
-      "eur": 0.45,
-      "tix": 0.03
+      "usd": 0.27,
+      "usd_foil": 0.47,
+      "eur": 0.34,
+      "tix": 0.02
     },
     "elo": 1200,
     "popularity": 0,
@@ -1354,9 +1354,9 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.41,
-      "usd_foil": 0.52,
-      "eur": 0.35,
+      "usd": 0.44,
+      "usd_foil": 0.49,
+      "eur": 0.29,
       "tix": 0.02
     },
     "elo": 1200,
@@ -1422,9 +1422,9 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.28,
-      "usd_foil": 0.75,
-      "eur": 0.2,
+      "usd": 0.25,
+      "usd_foil": 0.72,
+      "eur": 0.24,
       "tix": 0.02
     },
     "elo": 1200,
@@ -1491,10 +1491,10 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.18,
-      "usd_foil": 0.35,
+      "usd": 0.19,
+      "usd_foil": 0.36,
       "eur": 0.11,
-      "tix": 0.02
+      "tix": 0.03
     },
     "elo": 1200,
     "popularity": 0,
@@ -1559,9 +1559,9 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.25,
+      "usd": 0.27,
       "usd_foil": 0.32,
-      "eur": 0.6,
+      "eur": 0.28,
       "tix": 0.02
     },
     "elo": 1200,
@@ -1628,10 +1628,10 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 1.59,
-      "usd_foil": 1.89,
-      "eur": 0.52,
-      "tix": 0.03
+      "usd": 1.17,
+      "usd_foil": 1.76,
+      "eur": 0.29,
+      "tix": 0.02
     },
     "elo": 1200,
     "popularity": 0,
@@ -1694,9 +1694,9 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 8.9,
-      "usd_foil": 13.02,
-      "eur": 10.7,
+      "usd": 9.69,
+      "usd_foil": 12.76,
+      "eur": 9.97,
       "tix": 2.24
     },
     "elo": 1200,
@@ -1763,10 +1763,10 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 1.27,
-      "usd_foil": 2.24,
-      "eur": 1.99,
-      "tix": 0.23
+      "usd": 1.35,
+      "usd_foil": 2.26,
+      "eur": 1.37,
+      "tix": 0.1
     },
     "elo": 1200,
     "popularity": 0,
@@ -1829,10 +1829,10 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 37.89,
-      "usd_foil": 52.28,
-      "eur": 25.99,
-      "tix": 2.87
+      "usd": 40.56,
+      "usd_foil": 48.5,
+      "eur": 27.9,
+      "tix": 2.44
     },
     "elo": 1200,
     "popularity": 0,
@@ -1896,10 +1896,10 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 5.26,
-      "usd_foil": 5.62,
-      "eur": 2.36,
-      "tix": 0.47
+      "usd": 4.09,
+      "usd_foil": 5.56,
+      "eur": 2.44,
+      "tix": 0.41
     },
     "elo": 1200,
     "popularity": 0,
@@ -1966,10 +1966,10 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 1.92,
-      "usd_foil": 4.35,
-      "eur": 0.85,
-      "tix": 0.1
+      "usd": 1.56,
+      "usd_foil": 4.4,
+      "eur": 0.45,
+      "tix": 0.07
     },
     "elo": 1200,
     "popularity": 0,
@@ -1998,7 +1998,7 @@
       "Brawl": "legal",
       "Historic": "legal",
       "Commander": "legal",
-      "Penny": "legal",
+      "Penny": "not_legal",
       "Vintage": "legal"
     },
     "parsed_cost": [
@@ -2040,10 +2040,10 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.72,
-      "usd_foil": 2.3,
-      "eur": 0.54,
-      "tix": 0.14
+      "usd": 0.67,
+      "usd_foil": 2.25,
+      "eur": 0.41,
+      "tix": 0.12
     },
     "elo": 1200,
     "popularity": 0,
@@ -2112,7 +2112,7 @@
     "prices": {
       "usd": 0.13,
       "usd_foil": 0.21,
-      "eur": 0.06,
+      "eur": 0.1,
       "tix": 0.02
     },
     "elo": 1200,
@@ -2176,10 +2176,10 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 6.7,
-      "usd_foil": 7.04,
-      "eur": 5.39,
-      "tix": 0.43
+      "usd": 7.01,
+      "usd_foil": 7.32,
+      "eur": 4.14,
+      "tix": 0.57
     },
     "elo": 1200,
     "popularity": 0,
@@ -2246,7 +2246,7 @@
     "prices": {
       "usd": 0.24,
       "usd_foil": 0.33,
-      "eur": 0.17,
+      "eur": 0.08,
       "tix": 0.02
     },
     "elo": 1200,
@@ -2314,9 +2314,9 @@
     "promo": false,
     "prices": {
       "usd": 0.52,
-      "usd_foil": 0.69,
-      "eur": 0.28,
-      "tix": 0.02
+      "usd_foil": 0.7,
+      "eur": 0.7,
+      "tix": 0.03
     },
     "elo": 1200,
     "popularity": 0,
@@ -2345,7 +2345,7 @@
       "Brawl": "legal",
       "Historic": "legal",
       "Commander": "legal",
-      "Penny": "not_legal",
+      "Penny": "legal",
       "Vintage": "legal"
     },
     "parsed_cost": [
@@ -2381,9 +2381,9 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.44,
-      "usd_foil": 0.57,
-      "eur": 0.55,
+      "usd": 0.47,
+      "usd_foil": 0.53,
+      "eur": 0.34,
       "tix": 0.02
     },
     "elo": 1200,
@@ -2450,8 +2450,8 @@
     "promo": false,
     "prices": {
       "usd": 0.19,
-      "usd_foil": 0.52,
-      "eur": 0.17,
+      "usd_foil": 0.48,
+      "eur": 0.2,
       "tix": 0.03
     },
     "elo": 1200,
@@ -2481,7 +2481,7 @@
       "Brawl": "legal",
       "Historic": "banned",
       "Commander": "legal",
-      "Penny": "not_legal",
+      "Penny": "legal",
       "Vintage": "legal"
     },
     "parsed_cost": [
@@ -2516,9 +2516,9 @@
     "promo": false,
     "prices": {
       "usd": 0.24,
-      "usd_foil": 0.71,
-      "eur": 0.42,
-      "tix": 0.02
+      "usd_foil": 0.72,
+      "eur": 0.25,
+      "tix": 0.03
     },
     "elo": 1200,
     "popularity": 0,
@@ -2582,10 +2582,10 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 7.77,
+      "usd": 7.6,
       "usd_foil": 13.55,
-      "eur": 7.67,
-      "tix": 1.24
+      "eur": 5.1,
+      "tix": 1.32
     },
     "elo": 1200,
     "popularity": 0,
@@ -2649,8 +2649,8 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.19,
-      "usd_foil": 0.29,
+      "usd": 0.18,
+      "usd_foil": 0.3,
       "eur": 0.09,
       "tix": 0.02
     },
@@ -2716,10 +2716,10 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 2.71,
-      "usd_foil": 3.69,
-      "eur": 0.5,
-      "tix": 0.3
+      "usd": 2.67,
+      "usd_foil": 4.11,
+      "eur": 0.59,
+      "tix": 0.49
     },
     "elo": 1200,
     "popularity": 0,
@@ -2782,10 +2782,10 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 4.77,
-      "usd_foil": 14.68,
-      "eur": 7.51,
-      "tix": 1.78
+      "usd": 5.03,
+      "usd_foil": 14,
+      "eur": 6.24,
+      "tix": 1.61
     },
     "elo": 1200,
     "popularity": 0,
@@ -2852,8 +2852,8 @@
     "promo": false,
     "prices": {
       "usd": 0.16,
-      "usd_foil": 0.34,
-      "eur": 0.12,
+      "usd_foil": 0.33,
+      "eur": 0.11,
       "tix": 0.02
     },
     "elo": 1200,
@@ -2920,9 +2920,9 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.43,
-      "usd_foil": 0.49,
-      "eur": 0.2,
+      "usd": 0.4,
+      "usd_foil": 0.48,
+      "eur": 0.48,
       "tix": 0.02
     },
     "elo": 1200,
@@ -2992,10 +2992,10 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.97,
-      "usd_foil": 1.52,
-      "eur": 0.61,
-      "tix": 0.02
+      "usd": 0.88,
+      "usd_foil": 1.49,
+      "eur": 0.5,
+      "tix": 0.03
     },
     "elo": 1200,
     "popularity": 0,
@@ -3059,9 +3059,9 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.21,
+      "usd": 0.23,
       "usd_foil": 0.28,
-      "eur": 0.09,
+      "eur": 1.02,
       "tix": 0.02
     },
     "elo": 1200,
@@ -3127,10 +3127,10 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 3.13,
-      "usd_foil": 3.28,
-      "eur": 1.68,
-      "tix": 0.02
+      "usd": 3.04,
+      "usd_foil": 3.44,
+      "eur": 1.51,
+      "tix": 0.03
     },
     "elo": 1200,
     "popularity": 0,
@@ -3197,8 +3197,8 @@
     "promo": false,
     "prices": {
       "usd": 0.12,
-      "usd_foil": 0.5,
-      "eur": 0.21,
+      "usd_foil": 0.45,
+      "eur": 0.25,
       "tix": 0.02
     },
     "elo": 1200,
@@ -3264,9 +3264,9 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.25,
-      "usd_foil": 0.29,
-      "eur": 0.17,
+      "usd": 0.24,
+      "usd_foil": 0.28,
+      "eur": 0.2,
       "tix": 0.02
     },
     "elo": 1200,
@@ -3334,9 +3334,9 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 1.64,
-      "usd_foil": 2.6,
-      "eur": 0.61,
+      "usd": 2.17,
+      "usd_foil": 2.64,
+      "eur": 1.11,
       "tix": 0.02
     },
     "elo": 1200,
@@ -3401,9 +3401,9 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.86,
+      "usd": 0.95,
       "usd_foil": 1.77,
-      "eur": 0.23,
+      "eur": 0.35,
       "tix": 0.02
     },
     "elo": 1200,
@@ -3467,10 +3467,10 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 3.56,
-      "usd_foil": 4.77,
-      "eur": 1.9,
-      "tix": 0.03
+      "usd": 3.11,
+      "usd_foil": 4.74,
+      "eur": 1.98,
+      "tix": 0.02
     },
     "elo": 1200,
     "popularity": 0,
@@ -3535,9 +3535,9 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.64,
+      "usd": 0.69,
       "usd_foil": 0.86,
-      "eur": 0.52,
+      "eur": 0.43,
       "tix": 0.02
     },
     "elo": 1200,
@@ -3605,9 +3605,9 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.66,
-      "usd_foil": 0.74,
-      "eur": 0.27,
+      "usd": 0.61,
+      "usd_foil": 0.75,
+      "eur": 0.26,
       "tix": 0.02
     },
     "elo": 1200,
@@ -3671,10 +3671,10 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 4.98,
-      "usd_foil": 10.54,
-      "eur": 2.78,
-      "tix": 1.39
+      "usd": 5.71,
+      "usd_foil": 10.27,
+      "eur": 2.6,
+      "tix": 0.99
     },
     "elo": 1200,
     "popularity": 0,
@@ -3739,9 +3739,9 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.42,
-      "usd_foil": 0.44,
-      "eur": 0.16,
+      "usd": 0.37,
+      "usd_foil": 0.43,
+      "eur": 0.22,
       "tix": 0.02
     },
     "elo": 1200,
@@ -3810,10 +3810,10 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.31,
-      "usd_foil": 0.55,
-      "eur": 0.37,
-      "tix": 0.01
+      "usd": 0.29,
+      "usd_foil": 0.48,
+      "eur": 0.32,
+      "tix": 0.02
     },
     "elo": 1200,
     "popularity": 0,
@@ -3879,10 +3879,10 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 1.05,
-      "usd_foil": 1.5,
-      "eur": 0.52,
-      "tix": 0.1
+      "usd": 1.08,
+      "usd_foil": 1.69,
+      "eur": 0.82,
+      "tix": 0.15
     },
     "elo": 1200,
     "popularity": 0,
@@ -3947,10 +3947,10 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.57,
+      "usd": 0.58,
       "usd_foil": 0.75,
-      "eur": 0.33,
-      "tix": 0.02
+      "eur": 0.51,
+      "tix": 0.03
     },
     "elo": 1200,
     "popularity": 0,
@@ -4019,9 +4019,9 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.18,
+      "usd": 0.19,
       "usd_foil": 0.24,
-      "eur": 0.1,
+      "eur": 0.02,
       "tix": 0.02
     },
     "elo": 1200,
@@ -4086,8 +4086,8 @@
     "promo": false,
     "prices": {
       "usd": 0.96,
-      "usd_foil": 1.52,
-      "eur": 0.77,
+      "usd_foil": 1.53,
+      "eur": 0.86,
       "tix": 0.02
     },
     "elo": 1200,
@@ -4155,10 +4155,10 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 1.77,
-      "usd_foil": 2.73,
-      "eur": 1.49,
-      "tix": 0.72
+      "usd": 1.87,
+      "usd_foil": 2.75,
+      "eur": 1.86,
+      "tix": 0.95
     },
     "elo": 1200,
     "popularity": 0,
@@ -4223,7 +4223,7 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.29,
+      "usd": 0.27,
       "usd_foil": 0.34,
       "eur": 0.18,
       "tix": 0.02
@@ -4294,7 +4294,7 @@
     "prices": {
       "usd": 0.08,
       "usd_foil": 0.13,
-      "eur": 0.25,
+      "eur": 0.02,
       "tix": 0.03
     },
     "elo": 1200,
@@ -4442,9 +4442,9 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.02,
+      "usd": 0.03,
       "usd_foil": 0.1,
-      "eur": 0.05,
+      "eur": 0.03,
       "tix": 0.04
     },
     "elo": 1200,
@@ -4512,10 +4512,10 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.25,
-      "usd_foil": 0.48,
-      "eur": 0.19,
-      "tix": 0.16
+      "usd": 0.24,
+      "usd_foil": 0.5,
+      "eur": 0.16,
+      "tix": 0.07
     },
     "elo": 1200,
     "popularity": 0,
@@ -4587,7 +4587,7 @@
     "prices": {
       "usd": 0.01,
       "usd_foil": 0.08,
-      "eur": 0.09,
+      "eur": 0.02,
       "tix": 0.03
     },
     "elo": 1200,
@@ -4656,9 +4656,9 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.08,
+      "usd": 0.07,
       "usd_foil": 0.11,
-      "eur": 0.15,
+      "eur": 0.02,
       "tix": 0.03
     },
     "elo": 1200,
@@ -4732,7 +4732,7 @@
     "prices": {
       "usd": 0.01,
       "usd_foil": 0.07,
-      "eur": 0.12,
+      "eur": 0.02,
       "tix": 0.03
     },
     "elo": 1200,
@@ -4762,7 +4762,7 @@
       "Brawl": "legal",
       "Historic": "legal",
       "Commander": "legal",
-      "Penny": "not_legal",
+      "Penny": "legal",
       "Vintage": "legal"
     },
     "parsed_cost": [
@@ -4805,7 +4805,7 @@
     "prices": {
       "usd": 0.1,
       "usd_foil": 0.29,
-      "eur": 0.14,
+      "eur": 0.09,
       "tix": 0.03
     },
     "elo": 1200,
@@ -4874,9 +4874,9 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.04,
+      "usd": 0.05,
       "usd_foil": 0.16,
-      "eur": 0.16,
+      "eur": 0.15,
       "tix": 0.03
     },
     "elo": 1200,
@@ -4944,9 +4944,9 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.05,
+      "usd": 0.06,
       "usd_foil": 0.17,
-      "eur": 0.02,
+      "eur": 0.1,
       "tix": 0.03
     },
     "elo": 1200,
@@ -4976,7 +4976,7 @@
       "Brawl": "legal",
       "Historic": "legal",
       "Commander": "legal",
-      "Penny": "legal",
+      "Penny": "not_legal",
       "Vintage": "legal"
     },
     "parsed_cost": [
@@ -5015,8 +5015,8 @@
     "promo": false,
     "prices": {
       "usd": 0.1,
-      "usd_foil": 0.21,
-      "eur": 0.09,
+      "usd_foil": 0.22,
+      "eur": 0.1,
       "tix": 0.03
     },
     "elo": 1200,
@@ -5084,10 +5084,10 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 1.26,
+      "usd": 1.22,
       "usd_foil": 2.83,
-      "eur": 1.02,
-      "tix": 7.02
+      "eur": 0.99,
+      "tix": 8.19
     },
     "elo": 1200,
     "popularity": 0,
@@ -5155,7 +5155,7 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.02,
+      "usd": 0.01,
       "usd_foil": 0.14,
       "eur": 0.04,
       "tix": 0.04
@@ -5227,7 +5227,7 @@
     "prices": {
       "usd": 0.05,
       "usd_foil": 0.13,
-      "eur": 0.01,
+      "eur": 0.1,
       "tix": 0.03
     },
     "elo": 1200,
@@ -5298,8 +5298,8 @@
     "promo": false,
     "prices": {
       "usd": 0.08,
-      "usd_foil": 0.19,
-      "eur": 0.05,
+      "usd_foil": 0.18,
+      "eur": 0.07,
       "tix": 0.03
     },
     "elo": 1200,
@@ -5368,10 +5368,10 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 1.18,
-      "usd_foil": 1.59,
-      "eur": 1.66,
-      "tix": 0.59
+      "usd": 1.35,
+      "usd_foil": 1.55,
+      "eur": 1.71,
+      "tix": 0.7
     },
     "elo": 1200,
     "popularity": 0,
@@ -5442,8 +5442,8 @@
     "promo": false,
     "prices": {
       "usd": 0.1,
-      "usd_foil": 0.21,
-      "eur": 0.05,
+      "usd_foil": 0.2,
+      "eur": 0.19,
       "tix": 0.03
     },
     "elo": 1200,
@@ -5473,7 +5473,7 @@
       "Brawl": "legal",
       "Historic": "legal",
       "Commander": "legal",
-      "Penny": "not_legal",
+      "Penny": "legal",
       "Vintage": "legal"
     },
     "parsed_cost": [
@@ -5513,7 +5513,7 @@
     "prices": {
       "usd": 0.02,
       "usd_foil": 0.1,
-      "eur": 0.02,
+      "eur": 0.06,
       "tix": 0.03
     },
     "elo": 1200,
@@ -5584,7 +5584,7 @@
     "prices": {
       "usd": 0.1,
       "usd_foil": 0.26,
-      "eur": 0.02,
+      "eur": 0.03,
       "tix": 0.03
     },
     "elo": 1200,
@@ -5653,7 +5653,7 @@
     "prices": {
       "usd": 0.11,
       "usd_foil": 0.17,
-      "eur": 0.06,
+      "eur": 0.09,
       "tix": 0.03
     },
     "elo": 1200,
@@ -5722,10 +5722,10 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.18,
+      "usd": 0.17,
       "usd_foil": 0.52,
-      "eur": 0.14,
-      "tix": 0.02
+      "eur": 0.89,
+      "tix": 0.03
     },
     "elo": 1200,
     "popularity": 0,
@@ -5754,7 +5754,7 @@
       "Brawl": "legal",
       "Historic": "legal",
       "Commander": "legal",
-      "Penny": "not_legal",
+      "Penny": "legal",
       "Vintage": "legal"
     },
     "parsed_cost": [
@@ -5793,10 +5793,10 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 19.04,
-      "usd_foil": 21.99,
-      "eur": 15.4,
-      "tix": 27.77
+      "usd": 19.21,
+      "usd_foil": 21.51,
+      "eur": 15.5,
+      "tix": 29.76
     },
     "elo": 1200,
     "popularity": 0,
@@ -5866,8 +5866,8 @@
     "promo": false,
     "prices": {
       "usd": 0.03,
-      "usd_foil": 0.16,
-      "eur": 0.06,
+      "usd_foil": 0.17,
+      "eur": 0.09,
       "tix": 0.03
     },
     "elo": 1200,
@@ -5938,7 +5938,7 @@
     "prices": {
       "usd": 0.03,
       "usd_foil": 0.05,
-      "eur": 0.03,
+      "eur": 0.01,
       "tix": 0.02
     },
     "elo": 1200,
@@ -6007,7 +6007,7 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.09,
+      "usd": 0.08,
       "usd_foil": 0.19,
       "eur": 0.06,
       "tix": 0.03
@@ -6077,9 +6077,9 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.84,
-      "usd_foil": 1.08,
-      "eur": 0.3,
+      "usd": 0.82,
+      "usd_foil": 1.09,
+      "eur": 0.63,
       "tix": 0.03
     },
     "elo": 1200,
@@ -6109,7 +6109,7 @@
       "Brawl": "legal",
       "Historic": "legal",
       "Commander": "legal",
-      "Penny": "legal",
+      "Penny": "not_legal",
       "Vintage": "legal"
     },
     "parsed_cost": [
@@ -6224,9 +6224,9 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.34,
-      "usd_foil": 0.35,
-      "eur": 0.24,
+      "usd": 0.51,
+      "usd_foil": 0.36,
+      "eur": 0.08,
       "tix": 0.03
     },
     "elo": 1200,
@@ -6256,7 +6256,7 @@
       "Brawl": "legal",
       "Historic": "legal",
       "Commander": "legal",
-      "Penny": "not_legal",
+      "Penny": "legal",
       "Vintage": "legal"
     },
     "parsed_cost": [
@@ -6296,7 +6296,7 @@
     "prices": {
       "usd": 0.07,
       "usd_foil": 0.13,
-      "eur": 0.09,
+      "eur": 0.15,
       "tix": 0.04
     },
     "elo": 1200,
@@ -6364,9 +6364,9 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 0.03,
+      "usd": 0.02,
       "usd_foil": 0.07,
-      "eur": 0.04,
+      "eur": 0.05,
       "tix": 0.03
     },
     "elo": 1200,
@@ -6437,9 +6437,9 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 1.8,
-      "usd_foil": 4.14,
-      "eur": 3.12,
+      "usd": 1.57,
+      "usd_foil": 4.2,
+      "eur": 3.4,
       "tix": 0.03
     },
     "elo": 1200,
@@ -6508,9 +6508,9 @@
     "promo": false,
     "prices": {
       "usd": 14.67,
-      "usd_foil": 25.07,
-      "eur": 12.31,
-      "tix": 1.02
+      "usd_foil": 24.9,
+      "eur": 12.29,
+      "tix": 0.91
     },
     "elo": 1200,
     "popularity": 0,
@@ -6580,10 +6580,10 @@
     "reprint": false,
     "promo": false,
     "prices": {
-      "usd": 4.71,
-      "usd_foil": 4,
-      "eur": 2.58,
-      "tix": 0.1
+      "usd": 3.78,
+      "usd_foil": 4.18,
+      "eur": 2.99,
+      "tix": 0.13
     },
     "elo": 1200,
     "popularity": 0,
@@ -6650,10 +6650,13 @@
     "released_at": "2019-10-04",
     "reprint": true,
     "promo": false,
+    "promo_types": [
+      "brawldeck"
+    ],
     "prices": {
-      "usd": 0.41,
+      "usd": 0.34,
       "usd_foil": null,
-      "eur": 0.29,
+      "eur": 0.61,
       "tix": null
     },
     "elo": 1200,
@@ -6711,11 +6714,14 @@
     "released_at": "2019-10-04",
     "reprint": false,
     "promo": false,
+    "promo_types": [
+      "brawldeck"
+    ],
     "prices": {
-      "usd": 6.55,
+      "usd": 5.94,
       "usd_foil": null,
-      "eur": 7.17,
-      "tix": 1.09
+      "eur": 6.62,
+      "tix": 1
     },
     "elo": 1200,
     "popularity": 0,
@@ -6772,11 +6778,14 @@
     "released_at": "2019-10-04",
     "reprint": false,
     "promo": false,
+    "promo_types": [
+      "brawldeck"
+    ],
     "prices": {
       "usd": 1.59,
       "usd_foil": null,
-      "eur": 1.24,
-      "tix": 2.03
+      "eur": 1.67,
+      "tix": 2.26
     },
     "elo": 1200,
     "popularity": 0,
@@ -6835,8 +6844,8 @@
     "promo": false,
     "prices": {
       "usd": 0.24,
-      "usd_foil": 1.32,
-      "eur": 0.55,
+      "usd_foil": 1.33,
+      "eur": 0.05,
       "tix": 0.02
     },
     "elo": 1200,

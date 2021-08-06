@@ -24,6 +24,7 @@ const catalog = {};
  *   released_at: Date,
  *   reprint: Boolean,
  *   promo: Boolean,
+ *   promo_types: [String]?,
  *   prices: {
  *     usd: Float?,
  *     usd_foil: Float?,
@@ -638,6 +639,11 @@ function convertCard(card, isExtra) {
     card.set.toLowerCase() === 'mp2' || // invocations
     card.set.toLowerCase() === 'exp' || // expeditions
     card.set.toLowerCase() === 'amh1'; // mh1 art cards
+
+  if (card.promo_types) {
+    newcard.promo_types = Array.from(card.promo_types);
+  }
+
   newcard.prices = {
     usd: card.prices.usd ? parseFloat(card.prices.usd) : null,
     usd_foil: card.prices.usd_foil ? parseFloat(card.prices.usd_foil) : null,

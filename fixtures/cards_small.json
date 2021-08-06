@@ -95,17 +95,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 4128,
+    "edhrec_rank": 4125,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://twitter.com/MTG_Arena/status/1169291126970314752",
       "previewed_at": "2019-09-04"
     },
     "prices": {
-      "usd": "0.07",
+      "usd": "0.09",
       "usd_foil": "0.11",
-      "eur": "0.02",
-      "eur_foil": "0.21",
+      "eur": "0.12",
+      "eur_foil": "0.90",
       "tix": "0.03"
     },
     "related_uris": {
@@ -184,7 +184,7 @@
       "legacy": "legal",
       "pauper": "not_legal",
       "vintage": "legal",
-      "penny": "legal",
+      "penny": "not_legal",
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
@@ -228,17 +228,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 4238,
+    "edhrec_rank": 4249,
     "preview": {
       "source": "William Jensen",
       "source_uri": "https://twitter.com/HueyJensen/status/1174420655242010624",
       "previewed_at": "2019-09-18"
     },
     "prices": {
-      "usd": "0.11",
-      "usd_foil": "0.26",
-      "eur": "0.22",
-      "eur_foil": "0.21",
+      "usd": "0.10",
+      "usd_foil": "0.27",
+      "eur": "0.05",
+      "eur_foil": "0.99",
       "tix": "0.03"
     },
     "related_uris": {
@@ -342,12 +342,12 @@
     "textless": false,
     "booster": true,
     "story_spotlight": true,
-    "edhrec_rank": 650,
+    "edhrec_rank": 626,
     "prices": {
-      "usd": "0.63",
-      "usd_foil": "0.82",
-      "eur": "0.11",
-      "eur_foil": "0.12",
+      "usd": "0.55",
+      "usd_foil": "0.86",
+      "eur": "0.19",
+      "eur_foil": "0.15",
       "tix": "0.03"
     },
     "related_uris": {
@@ -452,7 +452,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 9555,
+    "edhrec_rank": 9589,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://magic.wizards.com/en/articles/archive/feature/throne-eldraine-mechanics-2019-09-04",
@@ -461,8 +461,8 @@
     "prices": {
       "usd": "0.05",
       "usd_foil": "0.16",
-      "eur": "0.03",
-      "eur_foil": "0.25",
+      "eur": "0.02",
+      "eur_foil": "0.05",
       "tix": "0.03"
     },
     "related_uris": {
@@ -521,7 +521,7 @@
       "legacy": "legal",
       "pauper": "not_legal",
       "vintage": "legal",
-      "penny": "not_legal",
+      "penny": "legal",
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
@@ -565,7 +565,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 9796,
+    "edhrec_rank": 9757,
     "preview": {
       "source": "Mark Rosewater",
       "source_uri": "https://mobile.twitter.com/maro254/status/1172198040263741441",
@@ -574,8 +574,8 @@
     "prices": {
       "usd": "0.09",
       "usd_foil": "0.25",
-      "eur": "0.03",
-      "eur_foil": "0.30",
+      "eur": "0.04",
+      "eur_foil": "0.24",
       "tix": "0.03"
     },
     "related_uris": {
@@ -698,17 +698,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 2938,
+    "edhrec_rank": 2929,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://twitter.com/wizards_magic/status/1169279011639443457",
       "previewed_at": "2019-09-04"
     },
     "prices": {
-      "usd": "0.33",
+      "usd": "0.32",
       "usd_foil": "0.42",
-      "eur": "0.50",
-      "eur_foil": "0.22",
+      "eur": "0.27",
+      "eur_foil": "0.99",
       "tix": "0.02"
     },
     "related_uris": {
@@ -814,11 +814,11 @@
       "previewed_at": "2019-09-18"
     },
     "prices": {
-      "usd": "7.34",
-      "usd_foil": "10.38",
-      "eur": "6.42",
-      "eur_foil": "9.00",
-      "tix": "1.71"
+      "usd": "6.64",
+      "usd_foil": "9.71",
+      "eur": "4.97",
+      "eur_foil": "9.49",
+      "tix": "1.70"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206",
@@ -923,18 +923,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 326,
+    "edhrec_rank": 323,
     "preview": {
       "source": "Amanda Yeo",
       "source_uri": "https://twitter.com/amandamyeo/status/1173867462036611072",
       "previewed_at": "2019-09-17"
     },
     "prices": {
-      "usd": "1.22",
-      "usd_foil": "2.37",
-      "eur": "0.89",
-      "eur_foil": "1.99",
-      "tix": "0.58"
+      "usd": "1.08",
+      "usd_foil": "2.39",
+      "eur": "1.07",
+      "eur_foil": "2.45",
+      "tix": "0.56"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473204",
@@ -1037,18 +1037,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 313,
+    "edhrec_rank": 307,
     "preview": {
       "source": "Stopgame",
       "source_uri": "https://youtu.be/ymiqozyqUuE",
       "previewed_at": "2019-09-17"
     },
     "prices": {
-      "usd": "4.21",
-      "usd_foil": "6.35",
-      "eur": "2.93",
-      "eur_foil": "3.99",
-      "tix": "3.79"
+      "usd": "4.16",
+      "usd_foil": "6.15",
+      "eur": "2.60",
+      "eur_foil": "4.00",
+      "tix": "3.64"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473203",
@@ -1151,18 +1151,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 439,
+    "edhrec_rank": 429,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://magic.wizards.com/en/articles/archive/card-preview/colors-costs-tempo-building-better-castle-2019-09-17",
       "previewed_at": "2019-09-17"
     },
     "prices": {
-      "usd": "7.11",
-      "usd_foil": "8.21",
-      "eur": "3.62",
-      "eur_foil": "5.00",
-      "tix": "1.51"
+      "usd": "6.84",
+      "usd_foil": "7.99",
+      "eur": "3.80",
+      "eur_foil": "5.99",
+      "tix": "0.83"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473202",
@@ -1265,7 +1265,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 794,
+    "edhrec_rank": 787,
     "preview": {
       "source": "Hareruya",
       "source_uri": "https://article.hareruyamtg.com/article/31458/?lang=en",
@@ -1273,10 +1273,10 @@
     },
     "prices": {
       "usd": "0.24",
-      "usd_foil": "0.77",
-      "eur": "0.33",
-      "eur_foil": "0.75",
-      "tix": "0.13"
+      "usd_foil": "0.76",
+      "eur": "0.28",
+      "eur_foil": "2.74",
+      "tix": "0.12"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473201",
@@ -1397,18 +1397,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 689,
+    "edhrec_rank": 685,
     "preview": {
       "source": "ESPN Brazil",
       "source_uri": "https://es.pn/2LDfNEd",
       "previewed_at": "2019-09-17"
     },
     "prices": {
-      "usd": "2.02",
-      "usd_foil": "2.49",
-      "eur": "2.53",
-      "eur_foil": "5.99",
-      "tix": "0.34"
+      "usd": "2.11",
+      "usd_foil": "2.66",
+      "eur": "2.21",
+      "eur_foil": "1.25",
+      "tix": "0.17"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473200",
@@ -1512,18 +1512,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 1266,
+    "edhrec_rank": 1263,
     "preview": {
       "source": "Anoa",
       "source_uri": "http://mtg.anoad.com/?p=7533",
       "previewed_at": "2019-09-13"
     },
     "prices": {
-      "usd": "1.87",
-      "usd_foil": "3.82",
-      "eur": "2.84",
-      "eur_foil": "3.94",
-      "tix": "1.27"
+      "usd": "1.61",
+      "usd_foil": "3.73",
+      "eur": "2.69",
+      "eur_foil": "3.98",
+      "tix": "1.57"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473197",
@@ -1620,7 +1620,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 5410,
+    "edhrec_rank": 5434,
     "preview": {
       "source": "Geektenango",
       "source_uri": "https://www.facebook.com/geektenango/videos/2277811855673952",
@@ -1629,8 +1629,8 @@
     "prices": {
       "usd": "0.20",
       "usd_foil": "0.26",
-      "eur": "0.47",
-      "eur_foil": "0.35",
+      "eur": "0.30",
+      "eur_foil": "0.64",
       "tix": "0.03"
     },
     "related_uris": {
@@ -1739,17 +1739,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 2458,
+    "edhrec_rank": 2444,
     "preview": {
       "source": "Bigweb",
       "source_uri": "https://mtg.bigweb.co.jp/article/preview/ELD",
       "previewed_at": "2019-09-18"
     },
     "prices": {
-      "usd": "0.43",
+      "usd": "0.45",
       "usd_foil": "0.54",
-      "eur": "0.28",
-      "eur_foil": "0.15",
+      "eur": "0.33",
+      "eur_foil": "0.40",
       "tix": "0.02"
     },
     "related_uris": {
@@ -1887,17 +1887,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 2931,
+    "edhrec_rank": 2933,
     "preview": {
       "source": "Gaby Spartz",
       "source_uri": "https://www.youtube.com/watch?v=OCPU11hC2Dc",
       "previewed_at": "2019-09-10"
     },
     "prices": {
-      "usd": "1.80",
-      "usd_foil": "2.19",
-      "eur": "0.43",
-      "eur_foil": "1.00",
+      "usd": "1.65",
+      "usd_foil": "2.13",
+      "eur": "1.35",
+      "eur_foil": "2.49",
       "tix": "0.03"
     },
     "related_uris": {
@@ -2005,18 +2005,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 7034,
+    "edhrec_rank": 7020,
     "preview": {
       "source": "Tasca Do Magique",
       "source_uri": "https://www.youtube.com/watch?v=rGagRu_HW2w",
       "previewed_at": "2019-09-10"
     },
     "prices": {
-      "usd": "0.18",
-      "usd_foil": "0.23",
-      "eur": "0.12",
-      "eur_foil": "0.25",
-      "tix": "0.02"
+      "usd": "0.16",
+      "usd_foil": "0.22",
+      "eur": "0.20",
+      "eur_foil": "0.35",
+      "tix": "0.03"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473157",
@@ -2131,18 +2131,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 399,
+    "edhrec_rank": 395,
     "preview": {
       "source": "cafe.daum.net",
       "source_uri": "http://cafe.daum.net/magin/9Uu6/4718",
       "previewed_at": "2019-09-13"
     },
     "prices": {
-      "usd": "2.14",
-      "usd_foil": "2.81",
-      "eur": "1.22",
-      "eur_foil": "2.09",
-      "tix": "0.03"
+      "usd": "1.94",
+      "usd_foil": "2.87",
+      "eur": "1.08",
+      "eur_foil": "1.50",
+      "tix": "0.02"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473152",
@@ -2202,7 +2202,7 @@
       "legacy": "legal",
       "pauper": "not_legal",
       "vintage": "legal",
-      "penny": "not_legal",
+      "penny": "legal",
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
@@ -2246,17 +2246,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 2260,
+    "edhrec_rank": 2246,
     "preview": {
       "source": "Brainstorm Brewery",
       "source_uri": "https://www.youtube.com/watch?v=S44bJNc42GM",
       "previewed_at": "2019-09-17"
     },
     "prices": {
-      "usd": "0.51",
-      "usd_foil": "0.54",
-      "eur": "0.36",
-      "eur_foil": "0.60",
+      "usd": "0.47",
+      "usd_foil": "0.55",
+      "eur": "0.18",
+      "eur_foil": "0.30",
       "tix": "0.02"
     },
     "related_uris": {
@@ -2379,18 +2379,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 5163,
+    "edhrec_rank": 5157,
     "preview": {
       "source": "Destructoid",
       "source_uri": "https://www.destructoid.com/check-out-magic-the-gathering-s-doom-foretold-our-exclusive-throne-of-eldraine-card-reveal-565657.phtml",
       "previewed_at": "2019-09-09"
     },
     "prices": {
-      "usd": "0.28",
-      "usd_foil": "0.48",
-      "eur": "0.45",
-      "eur_foil": "0.30",
-      "tix": "0.03"
+      "usd": "0.27",
+      "usd_foil": "0.47",
+      "eur": "0.34",
+      "eur_foil": "0.50",
+      "tix": "0.02"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473149",
@@ -2493,17 +2493,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 1694,
+    "edhrec_rank": 1684,
     "preview": {
       "source": "Commanderin",
       "source_uri": "https://www.youtube.com/watch?v=oQaCw2LbsCg",
       "previewed_at": "2019-09-13"
     },
     "prices": {
-      "usd": "0.41",
-      "usd_foil": "0.52",
-      "eur": "0.35",
-      "eur_foil": "0.99",
+      "usd": "0.44",
+      "usd_foil": "0.49",
+      "eur": "0.29",
+      "eur_foil": "0.50",
       "tix": "0.02"
     },
     "related_uris": {
@@ -2610,17 +2610,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 3901,
+    "edhrec_rank": 3874,
     "preview": {
       "source": "IGN",
       "source_uri": "https://es.ign.com/magic-the-gathering/155533/news/magic-una-carta-una-carta-del-nuevo-set-el-trono-de-eldraine-en-exclusiva",
       "previewed_at": "2019-09-16"
     },
     "prices": {
-      "usd": "0.28",
-      "usd_foil": "0.75",
-      "eur": "0.20",
-      "eur_foil": "0.49",
+      "usd": "0.25",
+      "usd_foil": "0.72",
+      "eur": "0.24",
+      "eur_foil": "1.25",
       "tix": "0.02"
     },
     "related_uris": {
@@ -2727,18 +2727,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 4540,
+    "edhrec_rank": 4553,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://magic.wizards.com/en/articles/archive/card-preview/wildborn-preserver-2019-09-10",
       "previewed_at": "2019-09-10"
     },
     "prices": {
-      "usd": "0.18",
-      "usd_foil": "0.35",
+      "usd": "0.19",
+      "usd_foil": "0.36",
       "eur": "0.11",
-      "eur_foil": "0.99",
-      "tix": "0.02"
+      "eur_foil": "0.75",
+      "tix": "0.03"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473144",
@@ -2843,17 +2843,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 7080,
+    "edhrec_rank": 7048,
     "preview": {
       "source": "NOT A WOLF",
       "source_uri": "https://twitter.com/SICKOFWOLVES/status/1171097721458946049",
       "previewed_at": "2019-09-09"
     },
     "prices": {
-      "usd": "0.25",
+      "usd": "0.27",
       "usd_foil": "0.32",
-      "eur": "0.60",
-      "eur_foil": "0.50",
+      "eur": "0.28",
+      "eur_foil": "0.75",
       "tix": "0.02"
     },
     "related_uris": {
@@ -2956,18 +2956,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": true,
-    "edhrec_rank": 174,
+    "edhrec_rank": 171,
     "preview": {
       "source": "The Vorthos Cast",
       "source_uri": "https://twitter.com/TheVorthosCast/status/1174687113389989888",
       "previewed_at": "2019-09-19"
     },
     "prices": {
-      "usd": "1.59",
-      "usd_foil": "1.89",
-      "eur": "0.52",
-      "eur_foil": "1.75",
-      "tix": "0.03"
+      "usd": "1.17",
+      "usd_foil": "1.76",
+      "eur": "0.29",
+      "eur_foil": "1.00",
+      "tix": "0.02"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473134",
@@ -3077,17 +3077,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 2355,
+    "edhrec_rank": 2336,
     "preview": {
       "source": "Sean Plott (Day9TV)",
       "source_uri": "https://twitter.com/day9tv/status/1171090892201086976?s=21",
       "previewed_at": "2019-09-09"
     },
     "prices": {
-      "usd": "8.90",
-      "usd_foil": "13.02",
-      "eur": "10.70",
-      "eur_foil": "15.50",
+      "usd": "9.69",
+      "usd_foil": "12.76",
+      "eur": "9.97",
+      "eur_foil": "8.50",
       "tix": "2.24"
     },
     "related_uris": {
@@ -3189,18 +3189,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 3323,
+    "edhrec_rank": 3329,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://magic.wizards.com/en/articles/archive/making-magic/eldraine-or-shine-2019-09-09",
       "previewed_at": "2019-09-09"
     },
     "prices": {
-      "usd": "1.27",
-      "usd_foil": "2.24",
-      "eur": "1.99",
-      "eur_foil": "3.96",
-      "tix": "0.23"
+      "usd": "1.35",
+      "usd_foil": "2.26",
+      "eur": "1.37",
+      "eur_foil": "3.00",
+      "tix": "0.10"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131",
@@ -3307,18 +3307,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 262,
+    "edhrec_rank": 256,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://magic.wizards.com/en/articles/archive/card-preview/building-great-henge-2019-09-18",
       "previewed_at": "2019-09-18"
     },
     "prices": {
-      "usd": "37.89",
-      "usd_foil": "52.28",
-      "eur": "25.99",
-      "eur_foil": "39.00",
-      "tix": "2.87"
+      "usd": "40.56",
+      "usd_foil": "48.50",
+      "eur": "27.90",
+      "eur_foil": "33.00",
+      "tix": "2.44"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473123",
@@ -3448,18 +3448,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 2199,
+    "edhrec_rank": 2150,
     "preview": {
       "source": "Kotaku",
       "source_uri": "https://www.kotaku.com.au/2019/09/magic-the-gathering-throne-of-eldraine-exclusive-reveal-gilded-goose-golden-egg/",
       "previewed_at": "2019-09-03"
     },
     "prices": {
-      "usd": "5.26",
-      "usd_foil": "5.62",
-      "eur": "2.36",
-      "eur_foil": "3.15",
-      "tix": "0.47"
+      "usd": "4.09",
+      "usd_foil": "5.56",
+      "eur": "2.44",
+      "eur_foil": "3.13",
+      "tix": "0.41"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122",
@@ -3540,7 +3540,7 @@
       "legacy": "legal",
       "pauper": "not_legal",
       "vintage": "legal",
-      "penny": "legal",
+      "penny": "not_legal",
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
@@ -3583,18 +3583,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 5576,
+    "edhrec_rank": 5515,
     "preview": {
       "source": "Kanister",
       "source_uri": "https://www.twitch.tv/videos/479450583",
       "previewed_at": "2019-09-10"
     },
     "prices": {
-      "usd": "1.92",
-      "usd_foil": "4.35",
-      "eur": "0.85",
-      "eur_foil": "0.99",
-      "tix": "0.10"
+      "usd": "1.56",
+      "usd_foil": "4.40",
+      "eur": "0.45",
+      "eur_foil": "0.40",
+      "tix": "0.07"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473114",
@@ -3701,18 +3701,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 619,
+    "edhrec_rank": 614,
     "preview": {
       "source": "ZiggyD Gaming",
       "source_uri": "https://twitter.com/ZiggyDStarcraft/status/1173553765070209024",
       "previewed_at": "2019-09-16"
     },
     "prices": {
-      "usd": "0.72",
-      "usd_foil": "2.30",
-      "eur": "0.54",
-      "eur_foil": "2.99",
-      "tix": "0.14"
+      "usd": "0.67",
+      "usd_foil": "2.25",
+      "eur": "0.41",
+      "eur_foil": "2.12",
+      "tix": "0.12"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473109",
@@ -3813,7 +3813,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 7788,
+    "edhrec_rank": 7839,
     "preview": {
       "source": "John Rolf",
       "source_uri": "https://twitter.com/JRolfMTG/status/1172624112335958024?s=19",
@@ -3822,7 +3822,7 @@
     "prices": {
       "usd": "0.13",
       "usd_foil": "0.21",
-      "eur": "0.06",
+      "eur": "0.10",
       "eur_foil": "0.17",
       "tix": "0.02"
     },
@@ -3930,18 +3930,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 4977,
+    "edhrec_rank": 4809,
     "preview": {
       "source": "J-E Depraz",
       "source_uri": "https://twitter.com/JEDepraz/status/1171392737356197893",
       "previewed_at": "2019-09-10"
     },
     "prices": {
-      "usd": "6.70",
-      "usd_foil": "7.04",
-      "eur": "5.39",
-      "eur_foil": "5.00",
-      "tix": "0.43"
+      "usd": "7.01",
+      "usd_foil": "7.32",
+      "eur": "4.14",
+      "eur_foil": "9.95",
+      "tix": "0.57"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473100",
@@ -4046,7 +4046,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 5750,
+    "edhrec_rank": 5582,
     "preview": {
       "source": "Sjow",
       "source_uri": "https://twitter.com/LiquidSjow/status/1171861699420413953",
@@ -4055,8 +4055,8 @@
     "prices": {
       "usd": "0.24",
       "usd_foil": "0.33",
-      "eur": "0.17",
-      "eur_foil": "1.00",
+      "eur": "0.08",
+      "eur_foil": "0.30",
       "tix": "0.02"
     },
     "related_uris": {
@@ -4117,7 +4117,7 @@
       "legacy": "legal",
       "pauper": "not_legal",
       "vintage": "legal",
-      "penny": "not_legal",
+      "penny": "legal",
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
@@ -4161,7 +4161,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 3737,
+    "edhrec_rank": 3729,
     "preview": {
       "source": "CoolStuffInc",
       "source_uri": "https://www.coolstuffinc.com/a/aliaintrazi-09182019-watch-it-burn-preview-for-throne-of-eldraine",
@@ -4169,10 +4169,10 @@
     },
     "prices": {
       "usd": "0.52",
-      "usd_foil": "0.69",
-      "eur": "0.28",
-      "eur_foil": "0.15",
-      "tix": "0.02"
+      "usd_foil": "0.70",
+      "eur": "0.70",
+      "eur_foil": "0.50",
+      "tix": "0.03"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473090",
@@ -4277,17 +4277,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 4172,
+    "edhrec_rank": 4143,
     "preview": {
       "source": "Matthew Nass",
       "source_uri": "https://twitter.com/MatthewLNass/status/1172527368600076289",
       "previewed_at": "2019-09-13"
     },
     "prices": {
-      "usd": "0.44",
-      "usd_foil": "0.57",
-      "eur": "0.55",
-      "eur_foil": "0.29",
+      "usd": "0.47",
+      "usd_foil": "0.53",
+      "eur": "0.34",
+      "eur_foil": "0.15",
       "tix": "0.02"
     },
     "related_uris": {
@@ -4346,7 +4346,7 @@
       "legacy": "legal",
       "pauper": "not_legal",
       "vintage": "legal",
-      "penny": "not_legal",
+      "penny": "legal",
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
@@ -4390,7 +4390,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 3356,
+    "edhrec_rank": 3350,
     "preview": {
       "source": "Vandal",
       "source_uri": "https://vandal.elespanol.com/noticia/1350726991/os-desvelamos-una-carta-exclusiva-para-la-nueva-ampliacion-de-magic-the-gathering/",
@@ -4398,9 +4398,9 @@
     },
     "prices": {
       "usd": "0.19",
-      "usd_foil": "0.52",
-      "eur": "0.17",
-      "eur_foil": "0.65",
+      "usd_foil": "0.48",
+      "eur": "0.20",
+      "eur_foil": "0.59",
       "tix": "0.03"
     },
     "related_uris": {
@@ -4508,7 +4508,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 3086,
+    "edhrec_rank": 3055,
     "preview": {
       "source": "Javier Domínguez",
       "source_uri": "https://twitter.com/JavierDmagic/status/1171904308041977862",
@@ -4516,10 +4516,10 @@
     },
     "prices": {
       "usd": "0.24",
-      "usd_foil": "0.71",
-      "eur": "0.42",
-      "eur_foil": "0.84",
-      "tix": "0.02"
+      "usd_foil": "0.72",
+      "eur": "0.25",
+      "eur_foil": "1.00",
+      "tix": "0.03"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473086",
@@ -4626,18 +4626,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 1133,
+    "edhrec_rank": 1117,
     "preview": {
       "source": "Martin Jůza",
       "source_uri": "https://twitter.com/MartinJuza/status/1171095982068686848",
       "previewed_at": "2019-09-09"
     },
     "prices": {
-      "usd": "7.77",
+      "usd": "7.60",
       "usd_foil": "13.55",
-      "eur": "7.67",
-      "eur_foil": "24.00",
-      "tix": "1.24"
+      "eur": "5.10",
+      "eur_foil": "6.00",
+      "tix": "1.32"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473082",
@@ -4739,17 +4739,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 9570,
+    "edhrec_rank": 9571,
     "preview": {
       "source": "The Masters of Modern",
       "source_uri": "https://twitter.com/theMMcast/status/1171115818630828033",
       "previewed_at": "2019-09-09"
     },
     "prices": {
-      "usd": "0.19",
-      "usd_foil": "0.29",
+      "usd": "0.18",
+      "usd_foil": "0.30",
       "eur": "0.09",
-      "eur_foil": "0.35",
+      "eur_foil": "0.30",
       "tix": "0.02"
     },
     "related_uris": {
@@ -4851,18 +4851,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 576,
+    "edhrec_rank": 565,
     "preview": {
       "source": "Brian Kibler",
       "source_uri": "https://twitter.com/bmkibler/status/1171093966801866754",
       "previewed_at": "2019-09-09"
     },
     "prices": {
-      "usd": "2.71",
-      "usd_foil": "3.69",
-      "eur": "0.50",
-      "eur_foil": "1.57",
-      "tix": "0.30"
+      "usd": "2.67",
+      "usd_foil": "4.11",
+      "eur": "0.59",
+      "eur_foil": "2.49",
+      "tix": "0.49"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473072",
@@ -4971,18 +4971,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 1349,
+    "edhrec_rank": 1330,
     "preview": {
       "source": "TCGplayer",
       "source_uri": "https://twitter.com/MTGatTCGplayer/status/1169119200381689856",
       "previewed_at": "2019-09-04"
     },
     "prices": {
-      "usd": "4.77",
-      "usd_foil": "14.68",
-      "eur": "7.51",
-      "eur_foil": "10.92",
-      "tix": "1.78"
+      "usd": "5.03",
+      "usd_foil": "14.00",
+      "eur": "6.24",
+      "eur_foil": "9.74",
+      "tix": "1.61"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473063",
@@ -5085,7 +5085,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 8225,
+    "edhrec_rank": 8256,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://www.twitch.tv/videos/480556742",
@@ -5093,9 +5093,9 @@
     },
     "prices": {
       "usd": "0.16",
-      "usd_foil": "0.34",
-      "eur": "0.12",
-      "eur_foil": "0.50",
+      "usd_foil": "0.33",
+      "eur": "0.11",
+      "eur_foil": "0.10",
       "tix": "0.02"
     },
     "related_uris": {
@@ -5220,17 +5220,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 2914,
+    "edhrec_rank": 2904,
     "preview": {
       "source": "Noxious",
       "source_uri": "https://www.youtube.com/watch?v=VYL28w0hmwg",
       "previewed_at": "2019-09-10"
     },
     "prices": {
-      "usd": "0.43",
-      "usd_foil": "0.49",
-      "eur": "0.20",
-      "eur_foil": "0.50",
+      "usd": "0.40",
+      "usd_foil": "0.48",
+      "eur": "0.48",
+      "eur_foil": "0.43",
       "tix": "0.02"
     },
     "related_uris": {
@@ -5335,18 +5335,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 3684,
+    "edhrec_rank": 3673,
     "preview": {
       "source": "Brian Braun-Duin",
       "source_uri": "https://twitter.com/BraunDuinIt/status/1173693988697542657",
       "previewed_at": "2019-09-16"
     },
     "prices": {
-      "usd": "0.97",
-      "usd_foil": "1.52",
-      "eur": "0.61",
-      "eur_foil": "1.60",
-      "tix": "0.02"
+      "usd": "0.88",
+      "usd_foil": "1.49",
+      "eur": "0.50",
+      "eur_foil": "1.67",
+      "tix": "0.03"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473044",
@@ -5452,17 +5452,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 5560,
+    "edhrec_rank": 5543,
     "preview": {
       "source": "Malditos Nerds",
       "source_uri": "https://twitter.com/MalditosNerdsVX/status/1173676142269816833",
       "previewed_at": "2019-09-16"
     },
     "prices": {
-      "usd": "0.21",
+      "usd": "0.23",
       "usd_foil": "0.28",
-      "eur": "0.09",
-      "eur_foil": "0.45",
+      "eur": "1.02",
+      "eur_foil": "0.63",
       "tix": "0.02"
     },
     "related_uris": {
@@ -5570,18 +5570,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 818,
+    "edhrec_rank": 810,
     "preview": {
       "source": "Good Luck High Five",
       "source_uri": "https://youtu.be/qhWhI57on0Q",
       "previewed_at": "2019-09-11"
     },
     "prices": {
-      "usd": "3.13",
-      "usd_foil": "3.28",
-      "eur": "1.68",
-      "eur_foil": "2.73",
-      "tix": "0.02"
+      "usd": "3.04",
+      "usd_foil": "3.44",
+      "eur": "1.51",
+      "eur_foil": "1.00",
+      "tix": "0.03"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473037",
@@ -5687,7 +5687,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 6942,
+    "edhrec_rank": 6882,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://magic.wizards.com/en/articles/archive/card-preview/adventuring-standard-and-limited-2019-09-13",
@@ -5695,9 +5695,9 @@
     },
     "prices": {
       "usd": "0.12",
-      "usd_foil": "0.50",
-      "eur": "0.21",
-      "eur_foil": "0.25",
+      "usd_foil": "0.45",
+      "eur": "0.25",
+      "eur_foil": "0.50",
       "tix": "0.02"
     },
     "related_uris": {
@@ -5818,17 +5818,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 3555,
+    "edhrec_rank": 3541,
     "preview": {
       "source": "Giga",
       "source_uri": "https://www.giga.de/artikel/magic-the-gathering-exklusive-preview-karte-zu-throne-of-eldraine/",
       "previewed_at": "2019-09-11"
     },
     "prices": {
-      "usd": "0.25",
-      "usd_foil": "0.29",
-      "eur": "0.17",
-      "eur_foil": "0.58",
+      "usd": "0.24",
+      "usd_foil": "0.28",
+      "eur": "0.20",
+      "eur_foil": "0.25",
       "tix": "0.02"
     },
     "related_uris": {
@@ -5931,17 +5931,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 621,
+    "edhrec_rank": 615,
     "preview": {
       "source": "MTGGoldfish",
       "source_uri": "https://www.mtggoldfish.com/articles/mirrormade-exclusive-throne-of-eldraine-preview",
       "previewed_at": "2019-09-13"
     },
     "prices": {
-      "usd": "1.64",
-      "usd_foil": "2.60",
-      "eur": "0.61",
-      "eur_foil": "0.88",
+      "usd": "2.17",
+      "usd_foil": "2.64",
+      "eur": "1.11",
+      "eur_foil": "1.78",
       "tix": "0.02"
     },
     "related_uris": {
@@ -6046,17 +6046,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 1290,
+    "edhrec_rank": 1275,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://twitter.com/wizards_magic/status/1169142807564640257/photo/1",
       "previewed_at": "2019-09-04"
     },
     "prices": {
-      "usd": "0.86",
+      "usd": "0.95",
       "usd_foil": "1.77",
-      "eur": "0.23",
-      "eur_foil": "0.25",
+      "eur": "0.35",
+      "eur_foil": "0.49",
       "tix": "0.02"
     },
     "related_uris": {
@@ -6161,18 +6161,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 1458,
+    "edhrec_rank": 1460,
     "preview": {
       "source": "Brad Nelson",
       "source_uri": "https://twitter.com/fffreakmtg/status/1172525989802283009",
       "previewed_at": "2019-09-13"
     },
     "prices": {
-      "usd": "3.56",
-      "usd_foil": "4.77",
-      "eur": "1.90",
-      "eur_foil": "1.80",
-      "tix": "0.03"
+      "usd": "3.11",
+      "usd_foil": "4.74",
+      "eur": "1.98",
+      "eur_foil": "2.90",
+      "tix": "0.02"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473013",
@@ -6279,17 +6279,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 1709,
+    "edhrec_rank": 1705,
     "preview": {
       "source": "The Command Zone",
       "source_uri": "https://www.youtube.com/watch?v=RYzy2drIllM&feature=youtu.be",
       "previewed_at": "2019-09-11"
     },
     "prices": {
-      "usd": "0.64",
+      "usd": "0.69",
       "usd_foil": "0.86",
-      "eur": "0.52",
-      "eur_foil": "0.50",
+      "eur": "0.43",
+      "eur_foil": "1.49",
       "tix": "0.02"
     },
     "related_uris": {
@@ -6393,17 +6393,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 1465,
+    "edhrec_rank": 1457,
     "preview": {
       "source": "PCGamesN",
       "source_uri": "https://www.pcgamesn.com/magic-the-gathering-arena/throne-of-eldraine-folio-of-fancies",
       "previewed_at": "2019-09-13"
     },
     "prices": {
-      "usd": "0.66",
-      "usd_foil": "0.74",
-      "eur": "0.27",
-      "eur_foil": "0.49",
+      "usd": "0.61",
+      "usd_foil": "0.75",
+      "eur": "0.26",
+      "eur_foil": "0.20",
       "tix": "0.02"
     },
     "related_uris": {
@@ -6512,18 +6512,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 951,
+    "edhrec_rank": 948,
     "preview": {
       "source": "NGA",
       "source_uri": "https://bbs.nga.cn/read.php?&tid=18485267&rand=293",
       "previewed_at": "2019-09-09"
     },
     "prices": {
-      "usd": "4.98",
-      "usd_foil": "10.54",
-      "eur": "2.78",
-      "eur_foil": "5.00",
-      "tix": "1.39"
+      "usd": "5.71",
+      "usd_foil": "10.27",
+      "eur": "2.60",
+      "eur_foil": "5.52",
+      "tix": "0.99"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473005",
@@ -6645,17 +6645,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 5352,
+    "edhrec_rank": 5325,
     "preview": {
       "source": "GameSpot",
       "source_uri": "https://www.gamespot.com/articles/new-magic-the-gathering-throne-of-eldraine-cards-p/1100-6469732/",
       "previewed_at": "2019-09-10"
     },
     "prices": {
-      "usd": "0.42",
-      "usd_foil": "0.44",
-      "eur": "0.16",
-      "eur_foil": "0.75",
+      "usd": "0.37",
+      "usd_foil": "0.43",
+      "eur": "0.22",
+      "eur_foil": "0.40",
       "tix": "0.02"
     },
     "related_uris": {
@@ -6765,18 +6765,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 4511,
+    "edhrec_rank": 4514,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://magic.wizards.com/en/articles/archive/making-magic/singing-eldraine-2019-09-16",
       "previewed_at": "2019-09-16"
     },
     "prices": {
-      "usd": "0.31",
-      "usd_foil": "0.55",
-      "eur": "0.37",
+      "usd": "0.29",
+      "usd_foil": "0.48",
+      "eur": "0.32",
       "eur_foil": "0.75",
-      "tix": "0.01"
+      "tix": "0.02"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472982",
@@ -6883,18 +6883,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 1291,
+    "edhrec_rank": 1281,
     "preview": {
       "source": "LadyLavinias",
       "source_uri": "https://twitter.com/LadyLavinias/status/1174775658695864322",
       "previewed_at": "2019-09-19"
     },
     "prices": {
-      "usd": "1.05",
-      "usd_foil": "1.50",
-      "eur": "0.52",
-      "eur_foil": "1.65",
-      "tix": "0.10"
+      "usd": "1.08",
+      "usd_foil": "1.69",
+      "eur": "0.82",
+      "eur_foil": "1.00",
+      "tix": "0.15"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472980",
@@ -7018,18 +7018,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 5090,
+    "edhrec_rank": 5093,
     "preview": {
       "source": "Jess Estephan",
       "source_uri": "https://twitter.com/jesstephan/status/1171786180666544130?s=20",
       "previewed_at": "2019-09-11"
     },
     "prices": {
-      "usd": "0.57",
+      "usd": "0.58",
       "usd_foil": "0.75",
-      "eur": "0.33",
-      "eur_foil": "0.90",
-      "tix": "0.02"
+      "eur": "0.51",
+      "eur_foil": "0.99",
+      "tix": "0.03"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472979",
@@ -7130,17 +7130,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": true,
-    "edhrec_rank": 5910,
+    "edhrec_rank": 5905,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://magic.wizards.com/en/articles/archive/card-preview/happily-ever-after-2019-09-19",
       "previewed_at": "2019-09-19"
     },
     "prices": {
-      "usd": "0.18",
+      "usd": "0.19",
       "usd_foil": "0.24",
-      "eur": "0.10",
-      "eur_foil": "0.09",
+      "eur": "0.02",
+      "eur_foil": "0.60",
       "tix": "0.02"
     },
     "related_uris": {
@@ -7263,7 +7263,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 4009,
+    "edhrec_rank": 3992,
     "preview": {
       "source": "ChannelFireball",
       "source_uri": "https://www.facebook.com/channelfireball/videos/366428504287148/",
@@ -7271,9 +7271,9 @@
     },
     "prices": {
       "usd": "0.96",
-      "usd_foil": "1.52",
-      "eur": "0.77",
-      "eur_foil": "0.81",
+      "usd_foil": "1.53",
+      "eur": "0.86",
+      "eur_foil": "1.99",
       "tix": "0.02"
     },
     "related_uris": {
@@ -7379,18 +7379,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 1736,
+    "edhrec_rank": 1723,
     "preview": {
       "source": "Reid Duke",
       "source_uri": "https://www.twitch.tv/videos/479548512",
       "previewed_at": "2019-09-10"
     },
     "prices": {
-      "usd": "1.77",
-      "usd_foil": "2.73",
-      "eur": "1.49",
-      "eur_foil": "2.12",
-      "tix": "0.72"
+      "usd": "1.87",
+      "usd_foil": "2.75",
+      "eur": "1.86",
+      "eur_foil": "2.00",
+      "tix": "0.95"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472970",
@@ -7493,14 +7493,14 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 3956,
+    "edhrec_rank": 3937,
     "preview": {
       "source": "Rei Sato",
       "source_uri": "https://www.twitch.tv/videos/482593745",
       "previewed_at": "2019-09-18"
     },
     "prices": {
-      "usd": "0.29",
+      "usd": "0.27",
       "usd_foil": "0.34",
       "eur": "0.18",
       "eur_foil": "0.71",
@@ -7650,7 +7650,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 10665,
+    "edhrec_rank": 10693,
     "preview": {
       "source": "Formação Fireball",
       "source_uri": "https://www.youtube.com/watch?v=rPJLKVyOnIE",
@@ -7659,7 +7659,7 @@
     "prices": {
       "usd": "0.08",
       "usd_foil": "0.13",
-      "eur": "0.25",
+      "eur": "0.02",
       "eur_foil": "0.15",
       "tix": "0.03"
     },
@@ -7788,7 +7788,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 9877,
+    "edhrec_rank": 9950,
     "preview": {
       "source": "Nizzahon Magic",
       "source_uri": "https://www.youtube.com/watch?v=v7HGSn0P1J4",
@@ -7798,7 +7798,7 @@
       "usd": "0.01",
       "usd_foil": "0.05",
       "eur": "0.09",
-      "eur_foil": "0.09",
+      "eur_foil": "0.13",
       "tix": "0.03"
     },
     "related_uris": {
@@ -7933,17 +7933,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 7116,
+    "edhrec_rank": 7162,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://twitter.com/MTG_Arena/status/1169291126970314752",
       "previewed_at": "2019-09-04"
     },
     "prices": {
-      "usd": "0.02",
+      "usd": "0.03",
       "usd_foil": "0.10",
-      "eur": "0.05",
-      "eur_foil": "0.19",
+      "eur": "0.03",
+      "eur_foil": "0.10",
       "tix": "0.04"
     },
     "related_uris": {
@@ -8089,18 +8089,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 8354,
+    "edhrec_rank": 8385,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://twitter.com/MTG_Arena/status/1169022264182038531",
       "previewed_at": "2019-09-03"
     },
     "prices": {
-      "usd": "0.25",
-      "usd_foil": "0.48",
-      "eur": "0.19",
+      "usd": "0.24",
+      "usd_foil": "0.50",
+      "eur": "0.16",
       "eur_foil": "0.50",
-      "tix": "0.16"
+      "tix": "0.07"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473127",
@@ -8227,7 +8227,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 12865,
+    "edhrec_rank": 12979,
     "preview": {
       "source": "Eric Froehlich",
       "source_uri": "https://twitter.com/efropoker/status/1174052806459707393?s=21",
@@ -8236,8 +8236,8 @@
     "prices": {
       "usd": "0.01",
       "usd_foil": "0.08",
-      "eur": "0.09",
-      "eur_foil": "0.02",
+      "eur": "0.02",
+      "eur_foil": "0.06",
       "tix": "0.03"
     },
     "related_uris": {
@@ -8383,17 +8383,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 6463,
+    "edhrec_rank": 6499,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://twitter.com/wizards_magic/status/1168992065994334208",
       "previewed_at": "2019-09-03"
     },
     "prices": {
-      "usd": "0.08",
+      "usd": "0.07",
       "usd_foil": "0.11",
-      "eur": "0.15",
-      "eur_foil": "0.05",
+      "eur": "0.02",
+      "eur_foil": "0.10",
       "tix": "0.03"
     },
     "related_uris": {
@@ -8495,7 +8495,7 @@
       "legacy": "legal",
       "pauper": "legal",
       "vintage": "legal",
-      "penny": "not_legal",
+      "penny": "legal",
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
@@ -8539,7 +8539,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 9279,
+    "edhrec_rank": 9258,
     "preview": {
       "source": "CNEWS",
       "source_uri": "https://www.cnews.fr/vie-numerique/2019-09-10/magic-gathering-revisite-les-contes-de-fees-avec-le-trone-deldraine-876392",
@@ -8548,7 +8548,7 @@
     "prices": {
       "usd": "0.01",
       "usd_foil": "0.07",
-      "eur": "0.12",
+      "eur": "0.02",
       "eur_foil": "0.10",
       "tix": "0.03"
     },
@@ -8675,7 +8675,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 1134,
+    "edhrec_rank": 1126,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://magic.wizards.com/en/articles/archive/feature/throne-eldraine-mechanics-2019-09-04",
@@ -8684,7 +8684,7 @@
     "prices": {
       "usd": "0.10",
       "usd_foil": "0.29",
-      "eur": "0.14",
+      "eur": "0.09",
       "eur_foil": "0.10",
       "tix": "0.03"
     },
@@ -8811,12 +8811,12 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 7416,
+    "edhrec_rank": 7356,
     "prices": {
-      "usd": "0.04",
+      "usd": "0.05",
       "usd_foil": "0.16",
-      "eur": "0.16",
-      "eur_foil": "0.10",
+      "eur": "0.15",
+      "eur_foil": "0.22",
       "tix": "0.03"
     },
     "related_uris": {
@@ -8900,7 +8900,7 @@
       "legacy": "legal",
       "pauper": "legal",
       "vintage": "legal",
-      "penny": "legal",
+      "penny": "not_legal",
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
@@ -8944,17 +8944,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 4728,
+    "edhrec_rank": 4737,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://magic.wizards.com/en/articles/archive/card-preview/adventure-adventure-2019-09-12",
       "previewed_at": "2019-09-12"
     },
     "prices": {
-      "usd": "0.05",
+      "usd": "0.06",
       "usd_foil": "0.17",
-      "eur": "0.02",
-      "eur_foil": "0.50",
+      "eur": "0.10",
+      "eur_foil": "0.40",
       "tix": "0.03"
     },
     "related_uris": {
@@ -9082,7 +9082,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 4231,
+    "edhrec_rank": 4208,
     "preview": {
       "source": "ChannelFireball",
       "source_uri": "https://www.youtube.com/watch?v=lKBtbDYICcU&t=2m21s",
@@ -9090,9 +9090,9 @@
     },
     "prices": {
       "usd": "0.10",
-      "usd_foil": "0.21",
-      "eur": "0.09",
-      "eur_foil": "0.30",
+      "usd_foil": "0.22",
+      "eur": "0.10",
+      "eur_foil": "0.35",
       "tix": "0.03"
     },
     "related_uris": {
@@ -9220,18 +9220,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 4169,
+    "edhrec_rank": 4131,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://magic.wizards.com/en/articles/archive/card-preview/adventuring-standard-and-limited-2019-09-13",
       "previewed_at": "2019-09-13"
     },
     "prices": {
-      "usd": "1.26",
+      "usd": "1.22",
       "usd_foil": "2.83",
-      "eur": "1.02",
-      "eur_foil": "3.42",
-      "tix": "7.02"
+      "eur": "0.99",
+      "eur_foil": "3.00",
+      "tix": "8.19"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077",
@@ -9360,17 +9360,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 4565,
+    "edhrec_rank": 4574,
     "preview": {
       "source": "IGN",
       "source_uri": "https://uk.ign.com/articles/2019/09/04/magic-the-gathering-throne-of-eldraine-4-new-cards-revealed-ser-konrad-the-grim-order-of-midnight-smitten-swordmaster-foulmire-knight",
       "previewed_at": "2019-09-04"
     },
     "prices": {
-      "usd": "0.02",
+      "usd": "0.01",
       "usd_foil": "0.14",
       "eur": "0.04",
-      "eur_foil": "0.25",
+      "eur_foil": "0.11",
       "tix": "0.04"
     },
     "related_uris": {
@@ -9496,12 +9496,12 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 11722,
+    "edhrec_rank": 11809,
     "prices": {
       "usd": "0.05",
       "usd_foil": "0.13",
-      "eur": "0.01",
-      "eur_foil": "0.02",
+      "eur": "0.10",
+      "eur_foil": "0.10",
       "tix": "0.03"
     },
     "related_uris": {
@@ -9629,7 +9629,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 3598,
+    "edhrec_rank": 3592,
     "preview": {
       "source": "IGN",
       "source_uri": "https://uk.ign.com/articles/2019/09/04/magic-the-gathering-throne-of-eldraine-4-new-cards-revealed-ser-konrad-the-grim-order-of-midnight-smitten-swordmaster-foulmire-knight",
@@ -9637,9 +9637,9 @@
     },
     "prices": {
       "usd": "0.08",
-      "usd_foil": "0.19",
-      "eur": "0.05",
-      "eur_foil": "0.17",
+      "usd_foil": "0.18",
+      "eur": "0.07",
+      "eur_foil": "0.20",
       "tix": "0.03"
     },
     "related_uris": {
@@ -9767,18 +9767,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 747,
+    "edhrec_rank": 737,
     "preview": {
       "source": "Star City Games",
       "source_uri": "https://twitter.com/StarCityGames/status/1171077240102313988",
       "previewed_at": "2019-09-09"
     },
     "prices": {
-      "usd": "1.18",
-      "usd_foil": "1.59",
-      "eur": "1.66",
-      "eur_foil": "3.78",
-      "tix": "0.59"
+      "usd": "1.35",
+      "usd_foil": "1.55",
+      "eur": "1.71",
+      "eur_foil": "1.76",
+      "tix": "0.70"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059",
@@ -9862,7 +9862,7 @@
       "legacy": "legal",
       "pauper": "not_legal",
       "vintage": "legal",
-      "penny": "not_legal",
+      "penny": "legal",
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
@@ -9905,7 +9905,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 3601,
+    "edhrec_rank": 3573,
     "preview": {
       "source": "IGN",
       "source_uri": "https://uk.ign.com/articles/2019/09/04/magic-the-gathering-throne-of-eldraine-4-new-cards-revealed-ser-konrad-the-grim-order-of-midnight-smitten-swordmaster-foulmire-knight",
@@ -9913,9 +9913,9 @@
     },
     "prices": {
       "usd": "0.10",
-      "usd_foil": "0.21",
-      "eur": "0.05",
-      "eur_foil": "0.18",
+      "usd_foil": "0.20",
+      "eur": "0.19",
+      "eur_foil": "0.39",
       "tix": "0.03"
     },
     "related_uris": {
@@ -10041,12 +10041,12 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 9772,
+    "edhrec_rank": 9818,
     "prices": {
       "usd": "0.02",
       "usd_foil": "0.10",
-      "eur": "0.02",
-      "eur_foil": "0.05",
+      "eur": "0.06",
+      "eur_foil": "0.20",
       "tix": "0.03"
     },
     "related_uris": {
@@ -10176,12 +10176,12 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 6526,
+    "edhrec_rank": 6516,
     "prices": {
       "usd": "0.10",
       "usd_foil": "0.26",
-      "eur": "0.02",
-      "eur_foil": "0.49",
+      "eur": "0.03",
+      "eur_foil": "0.60",
       "tix": "0.03"
     },
     "related_uris": {
@@ -10309,7 +10309,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 5288,
+    "edhrec_rank": 5287,
     "preview": {
       "source": "Star City Games",
       "source_uri": "http://www.starcitygames.com/articles/39065_How-To-Approach-Hypnotic-Sprite-In-Throne-Of-Eldraine-Standard.html",
@@ -10318,8 +10318,8 @@
     "prices": {
       "usd": "0.11",
       "usd_foil": "0.17",
-      "eur": "0.06",
-      "eur_foil": "0.20",
+      "eur": "0.09",
+      "eur_foil": "0.15",
       "tix": "0.03"
     },
     "related_uris": {
@@ -10404,7 +10404,7 @@
       "legacy": "legal",
       "pauper": "not_legal",
       "vintage": "legal",
-      "penny": "not_legal",
+      "penny": "legal",
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
@@ -10447,18 +10447,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 9397,
+    "edhrec_rank": 9432,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "",
       "previewed_at": "2019-09-18"
     },
     "prices": {
-      "usd": "0.18",
+      "usd": "0.17",
       "usd_foil": "0.52",
-      "eur": "0.14",
-      "eur_foil": "0.50",
-      "tix": "0.02"
+      "eur": "0.89",
+      "eur_foil": "0.19",
+      "tix": "0.03"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473006",
@@ -10586,18 +10586,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 2738,
+    "edhrec_rank": 2726,
     "preview": {
       "source": "/r/MagicArena",
       "source_uri": "https://www.reddit.com/r/MagicArena/comments/d60peu/eld_brazen_borrower_official_rmagicarena_spoiler/",
       "previewed_at": "2019-09-18"
     },
     "prices": {
-      "usd": "19.04",
-      "usd_foil": "21.99",
-      "eur": "15.40",
-      "eur_foil": "29.89",
-      "tix": "27.77"
+      "usd": "19.21",
+      "usd_foil": "21.51",
+      "eur": "15.50",
+      "eur_foil": "21.89",
+      "tix": "29.76"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001",
@@ -10726,7 +10726,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 8180,
+    "edhrec_rank": 8214,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://twitter.com/MTG_Arena/status/1169291126970314752",
@@ -10734,8 +10734,8 @@
     },
     "prices": {
       "usd": "0.03",
-      "usd_foil": "0.16",
-      "eur": "0.06",
+      "usd_foil": "0.17",
+      "eur": "0.09",
       "eur_foil": "0.14",
       "tix": "0.03"
     },
@@ -10864,7 +10864,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 12039,
+    "edhrec_rank": 12147,
     "preview": {
       "source": "Nizzahon Magic",
       "source_uri": "https://www.youtube.com/watch?v=v7HGSn0P1J4",
@@ -10873,8 +10873,8 @@
     "prices": {
       "usd": "0.03",
       "usd_foil": "0.05",
-      "eur": "0.03",
-      "eur_foil": "0.03",
+      "eur": "0.01",
+      "eur_foil": "0.25",
       "tix": "0.02"
     },
     "related_uris": {
@@ -11002,17 +11002,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 7844,
+    "edhrec_rank": 7816,
     "preview": {
       "source": "Eric Froehlich",
       "source_uri": "https://twitter.com/efropoker/status/1174065513636474880",
       "previewed_at": "2019-09-18"
     },
     "prices": {
-      "usd": "0.09",
+      "usd": "0.08",
       "usd_foil": "0.19",
       "eur": "0.06",
-      "eur_foil": "0.10",
+      "eur_foil": "0.50",
       "tix": "0.03"
     },
     "related_uris": {
@@ -11097,7 +11097,7 @@
       "legacy": "legal",
       "pauper": "not_legal",
       "vintage": "legal",
-      "penny": "legal",
+      "penny": "not_legal",
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
@@ -11140,17 +11140,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 4046,
+    "edhrec_rank": 4000,
     "preview": {
       "source": "Tolarian Community College",
       "source_uri": "https://www.youtube.com/watch?v=d4Zm4JzNiVs",
       "previewed_at": "2019-09-17"
     },
     "prices": {
-      "usd": "0.84",
-      "usd_foil": "1.08",
-      "eur": "0.30",
-      "eur_foil": "1.25",
+      "usd": "0.82",
+      "usd_foil": "1.09",
+      "eur": "0.63",
+      "eur_foil": "1.99",
       "tix": "0.03"
     },
     "related_uris": {
@@ -11296,7 +11296,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 11332,
+    "edhrec_rank": 11410,
     "preview": {
       "source": "Nizzahon Magic",
       "source_uri": "https://www.youtube.com/watch?v=v7HGSn0P1J4",
@@ -11390,7 +11390,7 @@
       "legacy": "legal",
       "pauper": "not_legal",
       "vintage": "legal",
-      "penny": "not_legal",
+      "penny": "legal",
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
@@ -11434,17 +11434,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 4299,
+    "edhrec_rank": 4286,
     "preview": {
       "source": "Amaz",
       "source_uri": "https://twitter.com/Amaz/status/1171122126486757381",
       "previewed_at": "2019-09-09"
     },
     "prices": {
-      "usd": "0.34",
-      "usd_foil": "0.35",
-      "eur": "0.24",
-      "eur_foil": "0.30",
+      "usd": "0.51",
+      "usd_foil": "0.36",
+      "eur": "0.08",
+      "eur_foil": "0.55",
       "tix": "0.03"
     },
     "related_uris": {
@@ -11574,7 +11574,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 7812,
+    "edhrec_rank": 7805,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://magic.wizards.com/en/articles/archive/making-magic/eldraine-or-shine-2019-09-09",
@@ -11583,8 +11583,8 @@
     "prices": {
       "usd": "0.07",
       "usd_foil": "0.13",
-      "eur": "0.09",
-      "eur_foil": "0.25",
+      "eur": "0.15",
+      "eur_foil": "0.10",
       "tix": "0.04"
     },
     "related_uris": {
@@ -11714,17 +11714,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 7939,
+    "edhrec_rank": 7977,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://magic.wizards.com/en/articles/archive/card-preview/adventure-adventure-2019-09-12",
       "previewed_at": "2019-09-12"
     },
     "prices": {
-      "usd": "0.03",
+      "usd": "0.02",
       "usd_foil": "0.07",
-      "eur": "0.04",
-      "eur_foil": "0.34",
+      "eur": "0.05",
+      "eur_foil": "0.05",
       "tix": "0.03"
     },
     "related_uris": {
@@ -11829,17 +11829,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 3406,
+    "edhrec_rank": 3410,
     "preview": {
       "source": "RiotPixels",
       "source_uri": "http://riotpixels.com/magicheskij-vestnik-vypusk-s-eksklyuzivami/",
       "previewed_at": "2019-09-09"
     },
     "prices": {
-      "usd": "1.80",
-      "usd_foil": "4.14",
-      "eur": "3.12",
-      "eur_foil": "5.00",
+      "usd": "1.57",
+      "usd_foil": "4.20",
+      "eur": "3.40",
+      "eur_foil": "4.74",
       "tix": "0.03"
     },
     "related_uris": {
@@ -11962,7 +11962,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 738,
+    "edhrec_rank": 733,
     "preview": {
       "source": "Card Kingdom",
       "source_uri": "https://twitter.com/Card_Kingdom/status/1168967403805511680",
@@ -11970,10 +11970,10 @@
     },
     "prices": {
       "usd": "14.67",
-      "usd_foil": "25.07",
-      "eur": "12.31",
-      "eur_foil": "13.00",
-      "tix": "1.02"
+      "usd_foil": "24.90",
+      "eur": "12.29",
+      "eur_foil": "58.49",
+      "tix": "0.91"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473159",
@@ -12103,18 +12103,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 2008,
+    "edhrec_rank": 2002,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://twitter.com/MTG_Arena/status/1169264113412972544",
       "previewed_at": "2019-09-04"
     },
     "prices": {
-      "usd": "4.71",
-      "usd_foil": "4.00",
-      "eur": "2.58",
-      "eur_foil": "3.50",
-      "tix": "0.10"
+      "usd": "3.78",
+      "usd_foil": "4.18",
+      "eur": "2.99",
+      "eur_foil": "4.28",
+      "tix": "0.13"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473153",
@@ -12229,9 +12229,9 @@
       "previewed_at": "2019-09-04"
     },
     "prices": {
-      "usd": "0.41",
+      "usd": "0.34",
       "usd_foil": null,
-      "eur": "0.29",
+      "eur": "0.61",
       "eur_foil": null,
       "tix": null
     },
@@ -12333,18 +12333,18 @@
     "promo_types": [
       "brawldeck"
     ],
-    "edhrec_rank": 1541,
+    "edhrec_rank": 1525,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://magic.wizards.com/en/articles/archive/card-preview/inside-throne-eldraine-brawl-decks-2019-09-04",
       "previewed_at": "2019-09-04"
     },
     "prices": {
-      "usd": "6.55",
+      "usd": "5.94",
       "usd_foil": null,
-      "eur": "7.17",
+      "eur": "6.62",
       "eur_foil": null,
-      "tix": "1.09"
+      "tix": "1.00"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476050",
@@ -12452,7 +12452,7 @@
     "promo_types": [
       "brawldeck"
     ],
-    "edhrec_rank": 7,
+    "edhrec_rank": 6,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://magic.wizards.com/en/articles/archive/card-preview/new-era-brawl-2019-07-22",
@@ -12461,9 +12461,9 @@
     "prices": {
       "usd": "1.59",
       "usd_foil": null,
-      "eur": "1.24",
+      "eur": "1.67",
       "eur_foil": null,
-      "tix": "2.03"
+      "tix": "2.26"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476049",
@@ -12561,11 +12561,11 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 5410,
+    "edhrec_rank": 5434,
     "prices": {
       "usd": "0.24",
-      "usd_foil": "1.32",
-      "eur": "0.55",
+      "usd_foil": "1.33",
+      "eur": "0.05",
       "eur_foil": "1.50",
       "tix": "0.02"
     },
