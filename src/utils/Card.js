@@ -256,6 +256,19 @@ export const CARD_CATEGORY_DETECTORS = {
   nonfoil: (details, card) => (cardFinish(card) ? cardFinish(card) === 'Non-foil' : details.nonfoil),
   fullart: (details) => details.full_art,
 
+  datestamped: (details) => (details.promo_types ? details.promo_types.includes('datestamped') : false),
+  buyabox: (details) => (details.promo_types ? details.promo_types.includes('buyabox') : false),
+  gameday: (details) => (details.promo_types ? details.promo_types.includes('gameday') : false),
+  giftbox: (details) => (details.promo_types ? details.promo_types.includes('giftbox') : false),
+  intropack: (details) => (details.promo_types ? details.promo_types.includes('intropack') : false),
+  league: (details) => (details.promo_types ? details.promo_types.includes('league') : false),
+  planeswalkerdeck: (details) => (details.promo_types ? details.promo_types.includes('planeswalkerdeck') : false),
+  prerelease: (details) => (details.promo_types ? details.promo_types.includes('prerelease') : false),
+  release: (details) => (details.promo_types ? details.promo_types.includes('release') : false),
+  setpromo: (details) => (details.promo_types ? details.promo_types.includes('setpromo') : false),
+  stamped: (details) => (details.promo_types ? details.promo_types.includes('stamped') : false),
+  starterdeck: (details) => (details.promo_types ? details.promo_types.includes('starterdeck') : false),
+
   bikeland: (details) => LandCategories.CYCLE.includes(details.name),
   cycleland: (details) => LandCategories.CYCLE.includes(details.name),
   bicycleland: (details) => LandCategories.CYCLE.includes(details.name),
@@ -282,8 +295,7 @@ export const CARD_CATEGORY_DETECTORS = {
   //   reserved, firstprint, new, old, hires,
   //   spotlight, unique, masterpiece,
   //   funny,
-  //   booster, datestamped, prerelease, planeswalker_deck,
-  //   league, buyabox, giftbox, intro_pack, gameday, release,
+  //   booster
 };
 
 export const CARD_CATEGORIES = Object.keys(CARD_CATEGORY_DETECTORS);
